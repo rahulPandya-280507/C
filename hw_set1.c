@@ -16,10 +16,12 @@ int main(){
 }*/
 
 //Q2
-#include <stdio.h>
+/*#include <stdio.h>
 int main(){
     int n;
     printf("Enter a number: ");
     scanf("%d", &n);
     printf("The cube of {%d} is: %d", n, n*n*n);
-}
+}*/
+
+//all questions from chapter 1 solved!!!
